@@ -1,0 +1,14 @@
+   169.5ms (setup:858): 2026-06-22 11:57:12
+   170.0ms (setup:859): /usr/bin/pipx install flask==2.1.3
+   170.0ms (setup:860): pipx version is 1.4.3
+   170.0ms (setup:861): Default python interpreter is '/usr/bin/python3'
+   170.8ms (package_name_from_spec:370): Determined package name: flask
+   171.1ms (package_name_from_spec:371): Package name determined in 0.0s
+   173.8ms (run_subprocess:168): running <checking pip's availability>
+   191.9ms (run_subprocess:190): stdout: ModuleSpec(name='pip', loader=<_frozen_importlib_external.SourceFileLoader object at 0x756ac07fff20>, origin='/home/shivarathna/.local/share/pipx/shared/lib/python3.12/site-packages/pip/__init__.py', submodule_search_locations=['/home/shivarathna/.local/share/pipx/shared/lib/python3.12/site-packages/pip'])
+   192.0ms (run_subprocess:193): returncode: 0
+   192.0ms (needs_upgrade:78): Time since last upgrade of shared libs, in seconds: 63. Upgrade will be run by pipx if greater than 2592000.
+   192.1ms (run_subprocess:168): running <checking pip's availability>
+   209.1ms (run_subprocess:190): stdout: ModuleSpec(name='pip', loader=<_frozen_importlib_external.SourceFileLoader object at 0x7061373fff20>, origin='/home/shivarathna/.local/share/pipx/shared/lib/python3.12/site-packages/pip/__init__.py', submodule_search_locations=['/home/shivarathna/.local/share/pipx/shared/lib/python3.12/site-packages/pip'])
+   209.2ms (run_subprocess:193): returncode: 0
+   209.4ms (cli:932): pipx finished.
